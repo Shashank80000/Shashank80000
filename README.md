@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shashank80000
+- 👋 Hi, I’m shashank pandey
 - 👀 I’m interested in coding, technology and developing newtech 
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on web developing work
